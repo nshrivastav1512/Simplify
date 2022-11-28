@@ -4,7 +4,7 @@
 
 "Simplify” is a Mobile Application which is Designed to Help the College Student
 Clubs to manage and promote their events easily and manage all the activities and tasks
-of the clubs in an easy way without the use of paper.
+of clubs in such a way so the use of paper should be minimum.
 
 This Application project is not only useful for the college student clubs but also for any
 community, society, NGO, or organization. With the help of Simplify Application,
